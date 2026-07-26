@@ -5,7 +5,7 @@
 > **Status:** Active pre-litigation record | April 2026  
 > **Horizon:** Ireland assumes EU Council Presidency — 1 July 2026  
 > **Core document:** _Interregnum Nullificans: A Statement of Record_ (March 2026)  
-> **Public index:** https://dr-crunch.github.io/sitemap
+> **Public index:** https://dr-bosch.github.io/sitemap
 
 ---
 
@@ -218,7 +218,7 @@ Are we repositioning accountability to a jurisdiction — the Presidency role �
 |---|---|---|
 |**Bertie Ahern**|Taoiseach 2006 — verbal acknowledgement|Cited|
 |**Micheál Martin**|Min. Foreign Affairs 2009 (now Taoiseach)|Cited; currently Taoiseach|
-|**Michael McGrath**|EU Commissioner, Democracy/Justice/Rule of Law|4 contacts, 0 responses; named at https://dr-crunch.github.io/nullification-loops/dossier#actors|
+|**Michael McGrath**|EU Commissioner, Democracy/Justice/Rule of Law|4 contacts, 0 responses; named at https://dr-bosch.github.io/nullification-loops/dossier#actors|
 |**Helen McEntee**|Minister for Foreign Affairs and Trade + Defence (Nov 2025–)|Dual custodian of DFA and DoD; appointed ahead of Presidency|
 |**Dara Calleary**|Minister of State, DETE — instigated Control of Exports Act 2023|Instigated transfer of competent authority from DFA to DETE|
 |**Sabine Weyand**|Director-General, DG TRADE (EU Commission)|Relevant Commission interlocutor for dual-use compliance|
@@ -261,5 +261,5 @@ Are we repositioning accountability to a jurisdiction — the Presidency role �
 
 ---
 
-_This document is part of the Interregnum Nullificans corpus. All materials publicly indexed at https://dr-crunch.github.io/sitemap_  
-_Live countdown to EU Council Presidency: https://dr-crunch.github.io/start-here#deadline_
+_This document is part of the Interregnum Nullificans corpus. All materials publicly indexed at https://dr-bosch.github.io/sitemap_  
+_Live countdown to EU Council Presidency: https://dr-bosch.github.io/start-here#deadline_
